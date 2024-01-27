@@ -27,7 +27,7 @@ The challenge of this game is the little area the player has to build buildings.
 ### Challenge
  - Demand meter, residential demand is split into high and low density
  - Demand stays the same as Hard, but tends to prefer low density, which can become a problem with space
- - Happiness meter - 
+ - Happiness meter - rapid passive decrease, low increase on high density building destroy and high decrease on low density building destroy, increase by building entertainment
 ### Custom
  - Allows the user to enable or disable any elements of the challenges mentioned above
  - Allows the user to also pick from new, sandbox-like elements. Those include
